@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: 'bebas_kairegular';
+    src: url('bebaskai-webfont.woff2') format('woff2'),
+         url('bebaskai-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+} */
+
+.heading {
+	font-family: bebas_kairegular;
+}
