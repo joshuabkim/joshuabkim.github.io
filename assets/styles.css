@@ -34,15 +34,16 @@ body {
 
 }
 
-/*
 ul {
     text-align: center;
+
+    margin: 0 30px 0 0;
 
 }
 
 li {
     font-family: tex_gyre_scholaregular;
-    margin: 10px;
+    margin: 10px 20px 0 10px;
     
     display: inline;
 }
@@ -52,7 +53,6 @@ li a:visited {
     color: #000;
     text-decoration: none;
 }
-*/
 
 .heading {
 	font-family: bebas_kairegular;
